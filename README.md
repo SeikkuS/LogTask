@@ -19,7 +19,7 @@ Lähde: https://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Emplo
     
 Valitsin riviksi: 
 
-    ![kuva](https://user-images.githubusercontent.com/105205141/215414776-7fb8f28c-9f02-4a16-9b8b-f233c2ee580b.png)
+![kuva](https://user-images.githubusercontent.com/105205141/215414776-7fb8f28c-9f02-4a16-9b8b-f233c2ee580b.png)
     
 Tässä rivissä päivä on 30.1. ja aika on 9.30 (oikeassa aikavyöhykkeessä). Ilmoitus sanoo että hostname service on onnistuneesti käynnistynyt. Kävin katsomassa mitä hostname service tekee selaimella ja vastaukseksi sain:
 
